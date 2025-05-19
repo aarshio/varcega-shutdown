@@ -16,7 +16,7 @@ export default function Home() {
             Service Discontinued
           </h1>
 
-          <p className="mb-3 text-gray-700">Hello Varcega community,</p>
+          <p className="mb-3 text-gray-700">Hello,</p>
 
           <p className="mb-3 text-gray-700">
             I’ve permanently shut down the site after realizing that my public display of
@@ -29,6 +29,13 @@ export default function Home() {
             All user data and account records have been&nbsp;
             <strong>securely deleted</strong>. No personal information has been retained or
             shared with anyone.
+          </p>
+
+          <p className="mb-3 text-gray-700">
+            If you signed up for a <strong>trial of the Pro subscription</strong>, your
+            subscription has already been <strong>canceled</strong> and you will
+            <strong>&nbsp;not be charged</strong>. You don’t need to take any further
+            action.
           </p>
 
           <p className="mb-3 text-gray-700">
